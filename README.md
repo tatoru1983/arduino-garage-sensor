@@ -15,4 +15,8 @@ The project is used to carry out a parking maneuver within a limited space. Ther
 When the car arrives inside the allowed area, the green light turns on while when you get too close to the sensor, the red light turns on.
 Connected to the Arduino there is an LCD monitor that prints the distance value in centimeters.
 
+The project required two libraries:
+* ![LiquidCrystal](https://github.com/tatoru1983/arduino-garage-sensor/raw/main/LiquidCrystal.zip) - Managing LCD Monitor
+* ![HC-SR04](https://github.com/tatoru1983/arduino-garage-sensor/raw/main/HC-SR04.zip) - Managing Ultrasonic Sensor Module
+
 ![Image of the circuit](https://github.com/tatoru1983/arduino-garage-sensor/blob/main/Sensore%20distanza%20garage.png?raw=true)

@@ -15,3 +15,4 @@ The project is used to carry out a parking maneuver within a limited space. Ther
 When the car arrives inside the allowed area, the green light turns on while when you get too close to the sensor, the red light turns on.
 Connected to the Arduino there is an LCD monitor that prints the distance value in centimeters.
 
+![Image of the circuit](https://github.com/tatoru1983/arduino-garage-sensor/blob/main/Sensore%20distanza%20garage.png?raw=true)
